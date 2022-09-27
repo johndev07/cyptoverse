@@ -4,8 +4,6 @@ import { Link } from "react-router-dom";
 import {
   HomeOutlined,
   MoneyCollectOutlined,
-  BulbOutlined,
-  FundOutlined,
   MenuOutlined,
   FunctionOutlined,
 } from "@ant-design/icons";
